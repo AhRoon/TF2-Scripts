@@ -3,9 +3,9 @@ TF2-Scripts
 
 The fork of Lyrositor's original script which removes broken features and focusing on gameplay.
 
-**Author's Github Link:** [Lyrositor/TF2-Scripts](https://github.com/Lyrositor/TF2-Scripts)
+**Original Github Link:** [Lyrositor/TF2-Scripts](https://github.com/Lyrositor/TF2-Scripts)
 
-**Author's GameBanana Link:** [TF2 Scripts - Script Collection](http://tf2.gamebanana.com/scripts/8373)
+**Original GameBanana Link:** [TF2 Scripts - Script Collection](http://tf2.gamebanana.com/scripts/8373)
 
 ## Features ##
 Most features are usable by all classes, but a few are class-specific.
