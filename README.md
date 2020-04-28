@@ -48,17 +48,15 @@ To install, locate your Team Fortress 2 installation's `custom` folder (usually 
 ## Credits ##
 The scripts bundled together would not have been possibly were it not for the scripts and tutorials provided by the following people:
 
-- [Lyrositor](https://github.com/Lyrositor) for making awesome TF2 Script Collection.
+- [Lyrositor](https://github.com/Lyrositor) for making this awesome TF2 Script Collection,
 - The [Team Fortress 2 Wiki](http://wiki.teamfortress.com) contributors for their scripting tutorials,
 - [Zoolooman](http://wiki.teamfortress.com/wiki/User:Zoolooman) for his `echo` [tutorial](http://wiki.teamfortress.com/wiki/User:Zoolooman/Scripting),
-- Dr.Device's [Toggle Auto Disguise on attack V1.2](http://tf2wiki.net/wiki/spy_scripts#Toggle_Auto_Disguise_on_attack) script for Spy, upon which the auto disguise functionality is based,
-- [TheFifthWheel](http://gamebanana.com/members/1350351)'s [TF2 Jukebox Script](http://tf2.gamebanana.com/scripts/8268), used as inspiration for the music player (special thanks for providing the names of the music files),
 - INsane for his [developer console font file information](http://www.dodbits.com/dods/index.php/source-graphics/source-gui-hud-tutorials/33-console-font-color-and-size),
 - [clovervidia](http://steamcommunity.com/id/clovervidia/) for his [captions tutorials](http://www.reddit.com/r/tf2scripthelp/wiki/captions),
 - povohat.au for his [null-cancelling script](http://ozfortress.com/showpost.php?p=624355),
 - stabby stabby for his [zoom script](http://steamcommunity.com/groups/stabbyvideo/discussions/0/846963165458399532/),
-- josh33901 for his rocket jump suggestion.
-- Chuzzy for his [Sniper Precision Script](https://gamebanana.com/scripts/7726).
-- BootlegJoel for his [Keypad Callout Script](https://gamebanana.com/scripts/10026)
+- josh33901 for his rocket jump suggestion,
+- Chuzzy for his [Sniper Precision Script](https://gamebanana.com/scripts/7726),
+- BootlegJoel for his [Keypad Callout Script](https://gamebanana.com/scripts/10026).
 
 If you are the author of this script and need to be in credit or want some script to be removed, please make a issue on GitHub then I will fix the credit or remove your script.
