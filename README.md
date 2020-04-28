@@ -59,4 +59,4 @@ The scripts bundled together would not have been possibly were it not for the sc
 - Chuzzy for his [Sniper Precision Script](https://gamebanana.com/scripts/7726),
 - BootlegJoel for his [Keypad Callout Script](https://gamebanana.com/scripts/10026).
 
-If you are the author of this script and need to be in credit or want some script to be removed, please make a issue on GitHub then I will fix the credit or remove your script.
+If you are the author of this script and need to be in credit or want some script to be removed, please contact me then I will fix the credit or remove your script.
