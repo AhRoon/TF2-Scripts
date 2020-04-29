@@ -21,8 +21,8 @@ If you have feedback about this script, please go ahead! I will consider about y
 - **NEW! Medic Radar:** Pressing `Shift` key will toggle the Medic Radar. Useful when finding other team.
 - **NEW! Auto Medigun:** You don't need to press your left click anymore! Now including auto medi-gun script which allows you to keep medigun active. Might break if server does not allow wait command. To disable auto medi-gun, press Number 1, 3 key or use wheel to disable it.
 - **NEW! Sniper Precision Zoom:** Pressing and holding `Shift` key while zoomed in will slow down the precision speed.
-- **Suicide Explosion:** makes you explode at the touch of a Delete button.
-- **Viewmodel Toggling:** toggles display of the active weapon at the press of the `Delete` key.
+- **Suicide Explosion:** makes you explode at the touch of a `Delete` key.
+- **Viewmodel Toggling:** toggles display of the active weapon at the press of the `Insert` key.
 - **Zooming:** zooms in and out when pressing `F`.
 - **Engineer: Building Bindings:** Use arrow keys to build your buildings instantly. Note: The previous building will be demolished if you press same key again. UpArrow: Sentry, DownArrow: Dispenser, LeftArrow: Teleporter Entrance, RightArrow: Teleporter Exit
 - **Soldier: Rocket Jump:** a simple rocket jump script bound to `MOUSE2` when toggled on (use `R` to toggle). Does not provide optimal jump, but is a reliable way to rocket jump. Aim the rocket launcher at the ground before clicking.
@@ -44,6 +44,7 @@ TF2-Scripts comes with several settings used to disable certain undesired featur
 
 ## Installation ##
 To install, locate your Team Fortress 2 installation's `custom` folder (usually located at `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom` on Windows), then copy-and-paste the `TF2-Scripts` there.
+To install with mastercomfig, make `user` folder on Team Fortress 2 installation's cfg file, then put most of config file to `user` folder except `_lang.cfg`, `_user.cfg`, `_settings.cfg`. Put `_lang.cfg`, `_user.cfg`, `_settings.cfg` outside of user folder.
 
 ## Credits ##
 The scripts bundled together would not have been possibly were it not for the scripts and tutorials provided by the following people:
