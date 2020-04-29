@@ -16,6 +16,7 @@ If you have feedback about this script, please go ahead! I will consider about y
 - **Loadout Switch:** binds 4 `Shift` key combinations to each loadout.
 - **Netgraph:** displays the netgraph on the score screen (`Tab` key).
 - **Null-Cancelling Movement Script:** a classic script which lets you immediately change direction.
+- **NEW! Wait command checker:** Allows you to check wait command availability for you. Enabled by default.
 - **NEW! Medic Uber ready bind:** sends a team message that ubercharge is ready, and also faking uber by playing other voice command. Recommend to press when reach 98%.
 - **NEW! Callout bind:** Use your keypad to use Callout bind. Pressing Number key while holding `0(INS)` key on your keypad will allow you to use Spycheck Callout.
 - **NEW! Medic Radar:** Pressing `Shift` key will toggle the Medic Radar. Useful when finding other team.
@@ -44,7 +45,7 @@ TF2-Scripts comes with several settings used to disable certain undesired featur
 
 ## Installation ##
 To install, locate your Team Fortress 2 installation's `custom` folder (usually located at `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom` on Windows), then copy-and-paste the `TF2-Scripts` there.
-To install with mastercomfig, make `user` folder on Team Fortress 2 installation's cfg file, then put most of config file to `user` folder except `_lang.cfg`, `_user.cfg`, `_settings.cfg`. Put `_lang.cfg`, `_user.cfg`, `_settings.cfg` outside of user folder.
+To install with mastercomfig, download the mastercomfig version of TF2 Script on [release page](https://github.com/AhRoon/TF2-Scripts/releases), extract and locate your Team Fortress 2 installation's `custom` folder (usually located at `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom` on Windows), then copy-and-paste the `TF2-Scripts` there.
 
 ## Credits ##
 The scripts bundled together would not have been possibly were it not for the scripts and tutorials provided by the following people:
