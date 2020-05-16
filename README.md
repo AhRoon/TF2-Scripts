@@ -45,7 +45,7 @@ TF2-Scripts comes with several settings used to disable certain undesired featur
 
 ## Installation ##
 To install, locate your Team Fortress 2 installation's `custom` folder (usually located at `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom` on Windows), then copy-and-paste the `TF2-Scripts` there.
-To install with mastercomfig, download the mastercomfig version of TF2 Script on [release page](https://github.com/AhRoon/TF2-Scripts/releases), extract and locate your Team Fortress 2 installation's `custom` folder (usually located at `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom` on Windows), then copy-and-paste the `TF2-Scripts` there.
+To install with mastercomfig, download the mastercomfig version of TF2 Script on [release page](https://github.com/AhRoon/TF2-Scripts/releases), extract and locate your Team Fortress 2 installation's `custom` folder (usually located at `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom` on Windows), then copy-and-paste the `TF2-Scripts-mastercomfig` folder on there.
 
 ## Credits ##
 The scripts bundled together would not have been possibly were it not for the scripts and tutorials provided by the following people:
