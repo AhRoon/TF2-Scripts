@@ -59,6 +59,7 @@ The scripts bundled together would not have been possibly were it not for the sc
 - stabby stabby for his [zoom script](http://steamcommunity.com/groups/stabbyvideo/discussions/0/846963165458399532/),
 - josh33901 for his rocket jump suggestion,
 - Chuzzy for his [Sniper Precision Script](https://gamebanana.com/scripts/7726),
-- BootlegJoel for his [Keypad Callout Script](https://gamebanana.com/scripts/10026).
-
+- BootlegJoel for his [Keypad Callout Script](https://gamebanana.com/scripts/10026),
+- Chdata, Stabby Stabby for his [Improved Crouch Jump Script](https://gamebanana.com/scripts/7982),
+- povohat, Perkzitos for his [Null-Cancelling Movement Script](https://gamebanana.com/scripts/9842).
 If you are the author of this script and need to be in credit or want some script to be removed, please let me know on issue tracker, then I will fix the credit or remove your script.
