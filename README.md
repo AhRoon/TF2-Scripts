@@ -24,7 +24,7 @@ If you have feedback about this script, please go ahead! I will consider about y
 - **NEW! Sniper Precision Zoom:** Pressing and holding `Shift` key while zoomed in will slow down the precision speed.
 - **Suicide Explosion:** makes you explode at the touch of a `Delete` key.
 - **Viewmodel Toggling:** toggles display of the active weapon at the press of the `Insert` key.
-- **Zooming:** zooms in and out when pressing `F`.
+- **Zooming:** zooms in and out when pressing `F`. Can be turned on and off in `_settings.cfg`.
 - **Engineer: Building Bindings:** Use arrow keys to build your buildings instantly. Note: The previous building will be demolished if you press same key again. UpArrow: Sentry, DownArrow: Dispenser, LeftArrow: Teleporter Entrance, RightArrow: Teleporter Exit
 - **Soldier: Rocket Jump:** a simple rocket jump script bound to `MOUSE2` when toggled on (use `R` to toggle). Does not provide optimal jump, but is a reliable way to rocket jump. Aim the rocket launcher at the ground before clicking.
 
