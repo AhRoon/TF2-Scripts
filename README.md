@@ -39,6 +39,8 @@ TF2-Scripts comes with several settings used to disable certain undesired featur
 - `SHOW_NETGRAPH`
 - `SOLDIER_ROCKET_JUMP`
 - `SUICIDE_EXPLOSION`
+- `MEDIC_AUTO_MEDIGUN`
+- `ALLOW_ZOOM`
 - `ZOOM_IN_HIDE_WEAPON`
 - `ZOOM_IN_SENSITIVITY`
 - `ZOOM_OUT_SENSITIVITY`
@@ -64,3 +66,7 @@ The scripts bundled together would not have been possibly were it not for the sc
 - povohat, Perkzitos for his [Null-Cancelling Movement Script](https://gamebanana.com/scripts/9842).
 
 If you are the author of this script and need to be in credit or want some script to be removed, please let me know on issue tracker, then I will fix the credit or remove your script.
+
+## Support me ##
+[Support me on PayPal](https://www.paypal.me/AhRoon)
+[Support me on Patreon](https://www.patreon.com/mysticprismstudio)
