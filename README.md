@@ -57,7 +57,6 @@ The scripts bundled together would not have been possibly were it not for the sc
 - [Zoolooman](http://wiki.teamfortress.com/wiki/User:Zoolooman) for his `echo` [tutorial](http://wiki.teamfortress.com/wiki/User:Zoolooman/Scripting),
 - INsane for his [developer console font file information](http://www.dodbits.com/dods/index.php/source-graphics/source-gui-hud-tutorials/33-console-font-color-and-size),
 - [clovervidia](http://steamcommunity.com/id/clovervidia/) for his [captions tutorials](http://www.reddit.com/r/tf2scripthelp/wiki/captions),
-- povohat.au for his [null-cancelling script](http://ozfortress.com/showpost.php?p=624355),
 - stabby stabby for his [zoom script](http://steamcommunity.com/groups/stabbyvideo/discussions/0/846963165458399532/),
 - josh33901 for his rocket jump suggestion,
 - Chuzzy for his [Sniper Precision Script](https://gamebanana.com/scripts/7726),

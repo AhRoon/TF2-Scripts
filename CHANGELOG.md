@@ -1,5 +1,5 @@
 ## Changelog ##
-Last Updated: May 27, 2020 (v1.4)
+Last Updated: May 27, 2020 (v1.5)
 
 * Added Changelog file
 * Added Support message on README.md (Support is optional, but much appreciated if you support me!)
