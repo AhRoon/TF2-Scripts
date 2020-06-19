@@ -1,6 +1,8 @@
 TF2-Scripts
 ===========
 
+**WARNING: THIS SCRIPT IS NO LONGER BEING SUPPORTED. IF YOU WANT MORE UPDATE PLEASE CHECK OUT THE [MYSTICCONFIG](https://github.com/MysticPrismStudio/MysticConfig).**
+
 The fork of Lyrositor's original script which removes broken features and focusing on gameplay.
 
 **Original Github Link:** [Lyrositor/TF2-Scripts](https://github.com/Lyrositor/TF2-Scripts)
